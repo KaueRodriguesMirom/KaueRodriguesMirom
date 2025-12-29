@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"  />
+  <img height="500" src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"  />
 </div>
 
 ###
@@ -121,7 +121,7 @@
 
 ###
 
-<h2 align="center">Games</h2>
+<h2 align="center">Game</h2>
 
 ###
 
@@ -142,7 +142,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KaueRodriguesMirom&locale=pt-br&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueRodriguesMirom&radius=16&theme=high-contrast&area=false&order=5&custom_title=Contibui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
