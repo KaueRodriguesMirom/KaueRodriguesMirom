@@ -133,10 +133,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Stats</h2>
 
 ###
