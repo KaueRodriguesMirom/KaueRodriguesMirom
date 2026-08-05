@@ -1,4 +1,4 @@
-<h4 align="center">Kauê Rodrigues Mirom - Programador e Analista de Sistemas!<br>(Experiencia de 2 Anos e Meio na Vivo)<br> 🎅🎄🎁</h4>
+<h4 align="center">Kauê Rodrigues Mirom - Programador e Analista de Sistemas!<br>(Experiencia de 3 Anos na Vivo)<br> 🎅🎄🎁</h4>
 
 ###
 
