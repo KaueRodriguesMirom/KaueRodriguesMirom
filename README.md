@@ -1,10 +1,6 @@
-<h4 align="center">Kauê Rodrigues Mirom - Programador e Analista de Sistemas SRE!<br>(Experiencia de 3 Anos na Vivo)<br> 🎅🎄🎁</h4>
+👨🏼‍💻 **Systems Analyst and Software Engineering** student based in São Paulo, Brazil, with 3 years of experience driving reliability, automation, and operational efficiency in high-criticality enterprise infrastructure. 
 
----
-
-Systems Analyst and Software Engineering student based in São Paulo, Brazil, with 3 years of experience driving reliability, automation, and operational efficiency in high-criticality enterprise infrastructure. 
-
-Specialized in full-scale observability, incident response, and ITSM frameworks. Passionate about turning complex manual processes into smart, automated solutions that scale.
+🚀 **Specialized in full-scale observability, incident response, and ITSM frameworks.** Passionate about turning complex manual processes into smart, automated solutions that scale.
 
 🔹 **Core Tech & Stack:** 
 • **Observability & Monitoring:** Zabbix, Dynatrace, Elastic, Grafana  
@@ -12,11 +8,11 @@ Specialized in full-scale observability, incident response, and ITSM frameworks.
 • **Automation & Scripting:** Python, Shell Script  
 • **Infrastructure:** Linux, WebLogic, High-Availability Environments  
 
-🎓 **Education:** 
+🎓 **Education:**
 • Systems Analysis and Development — UNINOVE  
 • Software Engineering — Cruzeiro do Sul Virtual  
 
-Let's connect and build resilient tech together! 🚀
+Let's connect and build resilient tech together! 
 
 ###
 
