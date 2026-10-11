@@ -25,7 +25,7 @@ Let's connect and build resilient tech together!
 </div>
 
 ###
-<h1 align="center">📊 My Github Stats</h1>
+<h2 align="center">📊 My Github Stats</h2>
 ###
 
 <h3 align="center">
