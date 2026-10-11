@@ -208,7 +208,6 @@ Let's connect and build resilient tech together!
 <!-- Jogo 2: Gerado pelo ficheiro pacman.yml -->
 <br>
 <div align="center">
-  <h3>Pacman</h3>
   <a href="https://github.com/KaueRodriguesMirom">
     <picture>
       <img alt="Pacman animation" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/main/pacman-contribution-graph.svg" width="100%" title="Watch Pacman eat my contributions" />
