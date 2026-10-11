@@ -26,7 +26,6 @@ Let's connect and build resilient tech together!
 
 ###
 <h2 align="center">📊 My Github Stats</h2>
-##
 
 <h3 align="center">
   <a href="https://github.com/KaueRodriguesMirom">
