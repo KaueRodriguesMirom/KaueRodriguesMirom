@@ -207,6 +207,17 @@ Let's connect and build resilient tech together!
 
 ###
 
+<div align="center">
+  <a href="https://github.com/KaueRodriguesMirom">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/nome-do-ficheiro-gerado-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/nome-do-ficheiro-gerado.svg">
+      <img alt="pacman-contributions" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/nome-do-ficheiro-gerado-dark.svg" width="100%" title="Watch Pacman eat my contributions" />
+    </picture>
+  </a>
+</div>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/pacman-contribution-graph.svg">
