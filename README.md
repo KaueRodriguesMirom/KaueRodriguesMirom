@@ -203,7 +203,7 @@ Let's connect and build resilient tech together!
 
 ###
 
-<h2 align="center">My GitHub Games & Activity</h2>
+<h2 align="center">Games</h2>
 
 <!-- Jogo 1: Gerado pelo ficheiro snake.yml -->
 <div align="center">
@@ -214,15 +214,14 @@ Let's connect and build resilient tech together!
     </picture>
   </a>
 </div>
-
+<!-- Jogo 2: Gerado pelo ficheiro pacman.yml -->
 <br>
-
-<!-- Jogo 2: Gerado pelos ficheiros pacman.yml -->
 <div align="center">
   <h3>Pacman</h3>
   <a href="https://github.com/KaueRodriguesMirom">
     <picture>
-      <img alt="Pacman animation" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/pacman-contribution-graph.svg" width="100%" title="Watch Pacman eat my contributions" />
+      <img alt="Pacman animation" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/main/pacman-contribution-graph.svg" width="100%" title="Watch Pacman eat my contributions" />
     </picture>
   </a>
 </div>
+
