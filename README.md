@@ -1,5 +1,9 @@
 👨🏼‍💻 **Systems Analyst and Software Engineering** student based in São Paulo, Brazil, with 3 years of experience driving reliability, automation, and operational efficiency in high-criticality enterprise infrastructure. 
 
+<p align="center">
+  <img src="./assets/devops-hero.gif" alt="DEVOPS" width="100%" />
+</p>
+
 🚀 **Specialized in full-scale observability, incident response, and ITSM frameworks.** Passionate about turning complex manual processes into smart, automated solutions that scale.
 
 🔹 **Core Tech & Stack:** 
