@@ -25,6 +25,83 @@ Let's connect and build resilient tech together!
 </div>
 
 ###
+## 📊 My Github Stats
+
+<h3 align="center">
+  <a href="https://github.com/KaueRodriguesMirom">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" />
+  </a>
+  <a href="https://github.com/KaueRodriguesMirom">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+  </a>
+  【﻿Ｓｔａｔｓ】
+</h3>
+
+<p align="center">
+  <a href="https://github.com/KaueRodriguesMirom/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KaueRodriguesMirom's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KaueRodriguesMirom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KaueRodriguesMirom">
+    <img align="center" src="https://img.shields.io/github/followers/KaueRodriguesMirom?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge" alt="GitHub followers" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KaueRodriguesMirom">
+    <img align="middle" width="48%" alt="KaueRodriguesMirom's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KaueRodriguesMirom&show_icons=true&count_private=true&line_height=27&rank_icon=github&theme=algolia&hide_border=true" />
+  </a>
+  <a href="https://github.com/KaueRodriguesMirom">
+    <img align="middle" width="44%" alt="KaueRodriguesMirom's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueRodriguesMirom&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" />
+  </a>
+</p>
+
+<details open align="center">
+  <summary>📈 More Stats</summary>
+  <br>
+
+  <div align="center">
+    <a href="https://github.com/KaueRodriguesMirom">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaueRodriguesMirom&theme=algolia" width="100%" alt="Profile details" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/KaueRodriguesMirom">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaueRodriguesMirom&theme=algolia" width="31%" align="left" alt="Repos per language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaueRodriguesMirom&theme=algolia" width="31%" align="right" alt="Most commit language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaueRodriguesMirom&theme=algolia" width="31%" align="center" alt="Productive time" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/KaueRodriguesMirom">
+      <img src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/profile-night-view.svg" alt="3D contribution stats" width="100%" />
+    </a>
+  </div>
+</details>
+
+<p align="center">
+  <a href="https://github.com/KaueRodriguesMirom">
+    <img src="https://github-activity-chart.vercel.app/graph?username=KaueRodriguesMirom&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" alt="GitHub activity graph" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KaueRodriguesMirom">
+    <img src="https://trophy.ryglcloud.net/?username=KaueRodriguesMirom&column=4&margin-w=15&margin-h=15&no-frame=true&theme=algolia&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" alt="GitHub trophies" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KaueRodriguesMirom">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake.svg">
+      <img alt="github-snake" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake-dark.svg" width="100%" title="Watch the snake eat my contributions" />
+    </picture>
+  </a>
+</p>
+
+###
 
 <h2 align="center">Redes Sociais</h2>
 
