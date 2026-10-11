@@ -23,7 +23,9 @@
 🎓 **Education:**
 • Systems Analysis and Development — UNINOVE (2025 – 2027)
 • Software Engineering — Cruzeiro do Sul Virtual (2026 – 2029)
-📜 Certifications & Microcredentials:
+
+
+📜 **Certifications & Microcredentials:**
 • AWS (Amazon Web Services): Earned microcredentials in Incident Response Demonstrated, Data Streaming Demonstrated, and Application Networking Demonstrated.
 • Datadog: Certified as a Site Reliability Engineer (focusing on engineering and statistical data analysis) and Customize Alert Monitor Notifications.
 • Databricks: Certified in Data Preparation for Machine Learning (focusing on reporting) and Machine Learning Model Development (focusing on analytical skills).
