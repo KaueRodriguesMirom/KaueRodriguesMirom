@@ -18,18 +18,7 @@
 • Observability & Monitoring: Expert in Zabbix, Dynatrace, Elastic Stack, Grafana, and Splunk for creating custom alarms, comprehensive dashboards, and deep-diving into logs, events, and metrics to ensure the stability of critical environments.
 • ITSM, Operations & Quality: Strong foundation in ITIL, using ServiceNow for Problem Record (PRB) management, Root Cause Analysis (RCA), and incident response. Recognized as a reference for quality and governance, providing training and feedback to improve process maturity.
 • Automation & Scripting: Proficient in Python, JavaScript, Node.js, and Shell Script, alongside HTML/CSS, to develop web applications, automated checklists, and smart scripts that eliminate manual toil and optimize workflows.
-• Infrastructure & CI/CD: Hands-on experience administering high-availability environments using Linux, Oracle Server, WebLogic, Jenkins, and Control-M (managing job scheduling, performing stop/start routines, and analyzing system dumps).
-
-🎓 **Education:**
-• Systems Analysis and Development — UNINOVE (2025 – 2027)
-• Software Engineering — Cruzeiro do Sul Virtual (2026 – 2029)
-
-
-📜 **Certifications & Microcredentials:**
-• AWS (Amazon Web Services): Earned microcredentials in Incident Response Demonstrated, Data Streaming Demonstrated, and Application Networking Demonstrated.
-• Datadog: Certified as a Site Reliability Engineer (focusing on engineering and statistical data analysis) and Customize Alert Monitor Notifications.
-• Databricks: Certified in Data Preparation for Machine Learning (focusing on reporting) and Machine Learning Model Development (focusing on analytical skills).
-• Software & DevOps: Completed the Bootcamp Itaú - Java com Inteligência Artificial, developing competencies in Java, Python, and C# programming
+• Infrastructure & CI/CD: Hands-on experience administering high-availability environments using Linux, Oracle Server, WebLogic, Jenkins, and Control-M (managing job scheduling, performing stop/start routines, and analyzing system dumps.
 
 ###
 
