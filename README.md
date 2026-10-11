@@ -1,3 +1,5 @@
+![Kauê Rodrigues Mirom](kaue_rodrigues_mirom_led.gif)
+
 👨🏼‍💻 **Systems Analyst and Software Engineering** student based in São Paulo, Brazil, with 3 years of experience driving reliability, automation, and operational efficiency in high-criticality enterprise infrastructure. 
 
 <p align="center">
