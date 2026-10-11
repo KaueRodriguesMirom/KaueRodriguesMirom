@@ -205,15 +205,6 @@ Let's connect and build resilient tech together!
 
 <h2 align="center">Games</h2>
 
-<!-- Jogo 1: Gerado pelo ficheiro snake.yml -->
-<div align="center">
-  <h3>Snake</h3>
-  <a href="https://github.com/KaueRodriguesMirom">
-    <picture>
-      <img alt="Snake animation" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/snake.svg" width="100%" title="Watch the snake eat my contributions" />
-    </picture>
-  </a>
-</div>
 <!-- Jogo 2: Gerado pelo ficheiro pacman.yml -->
 <br>
 <div align="center">
