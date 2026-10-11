@@ -73,9 +73,6 @@ Let's connect and build resilient tech together!
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaueRodriguesMirom&theme=algolia" width="31%" align="center" alt="Productive time" />
     </a>
     <br/><br/>
-    <a href="https://github.com/KaueRodriguesMirom">
-      <img src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/profile-night-view.svg" alt="3D contribution stats" width="100%" />
-    </a>
   </div>
 </details>
 
@@ -215,10 +212,6 @@ Let's connect and build resilient tech together!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<h2 align="center">Stats</h2>
 
 ###
 
