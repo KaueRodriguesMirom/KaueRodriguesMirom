@@ -8,6 +8,12 @@
 
 🚀 **Specialized in full-scale observability, incident response, and ITSM frameworks.** Passionate about turning complex manual processes into smart, automated solutions that scale.
 
+
+<div align="center">
+  <img src="devops_service_restart.gif" width="850" alt="DevOps SRE - Restart e recuperação de serviço">
+</div>
+
+
 🔹 **Core Tech & Stack:** 
 • **Observability & Monitoring:** Zabbix, Dynatrace, Elastic, Grafana  
 • **ITSM & Operations:** ServiceNow, Problem Record (PRB) Management  
