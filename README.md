@@ -25,7 +25,7 @@ Let's connect and build resilient tech together!
 </div>
 
 ###
-<h2 align="center">📊 My Github Stats</h2>
+<h2 align="center">My Github Stats</h2>
 
 <h3 align="center">
   <a href="https://github.com/KaueRodriguesMirom">
@@ -59,7 +59,7 @@ Let's connect and build resilient tech together!
 </p>
 
 <details open align="center">
-  <summary>📈 More Stats</summary>
+  <summary>More Stats</summary>
   <br>
 
   <div align="center">
