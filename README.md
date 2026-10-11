@@ -91,16 +91,6 @@ Let's connect and build resilient tech together!
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/KaueRodriguesMirom">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake.svg">
-      <img alt="github-snake" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake-dark.svg" width="100%" title="Watch the snake eat my contributions" />
-    </picture>
-  </a>
-</p>
-
 ###
 
 <h2 align="center">Redes Sociais</h2>
