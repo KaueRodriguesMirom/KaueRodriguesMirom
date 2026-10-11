@@ -203,27 +203,14 @@ Let's connect and build resilient tech together!
 
 ###
 
-<h2 align="center">🎮 Game & Activity</h2>
+<h2 align="center">Game</h2>
 
 <div align="center">
   <a href="https://github.com/KaueRodriguesMirom">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/pacman-contribution-graph.svg">
-      <img alt="Pacman contributions animation" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/pacman-contribution-graph-dark.svg" width="100%" title="Watch Pacman eat my contributions" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake.svg">
+      <img alt="Pacman contributions animation" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake-dark.svg" width="100%" title="Watch Pacman eat my contributions" />
     </picture>
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueRodriguesMirom&radius=16&theme=high-contrast&area=false&order=5&custom_title=Contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="300" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KaueRodriguesMirom.KaueRodriguesMirom&left_color=midnightblue" alt="Visitor Badge" />
-</div>
-
