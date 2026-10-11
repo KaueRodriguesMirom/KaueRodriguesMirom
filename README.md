@@ -207,12 +207,12 @@ Let's connect and build resilient tech together!
 
 <!-- Jogo 1: Gerado pelo ficheiro snake.yml -->
 <div align="center">
-  <h3>🐍 Snake</h3>
+  <h3>Snake</h3>
   <a href="https://github.com/KaueRodriguesMirom">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake.svg">
-      <img alt="Snake animation" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/github-snake-dark.svg" width="100%" title="Watch the snake eat my contributions" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/main/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/main/github-snake.svg">
+      <img alt="Snake animation" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/main/github-snake-dark.svg" width="100%" title="Watch the snake eat my contributions" />
     </picture>
   </a>
 </div>
@@ -221,12 +221,26 @@ Let's connect and build resilient tech together!
 
 <!-- Jogo 2: Gerado pelo ficheiro pacman.yml -->
 <div align="center">
-  <h3>👻 Pacman (Versão 1)</h3>
+  <h3>Pacman (Versão 1)</h3>
   <a href="https://github.com/KaueRodriguesMirom">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/pacman-contribution-graph.svg">
-      <img alt="Pacman animation 1" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/output/pacman-contribution-graph-dark.svg" width="100%" title="Watch Pacman eat my contributions" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/main/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/main/pacman-contribution-graph.svg">
+      <img alt="Pacman animation 1" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/main/pacman-contribution-graph-dark.svg" width="100%" title="Watch Pacman eat my contributions" />
+    </picture>
+  </a>
+</div>
+
+<br>
+
+<!-- Jogo 3: Gerado pelo ficheiro pacman2.yml -->
+<div align="center">
+  <h3>Pacman (Versão 2)</h3>
+  <a href="https://github.com/KaueRodriguesMirom">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/main/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/main/github-contribution-grid-snake.svg">
+      <img alt="Pacman animation 2" src="https://raw.githubusercontent.com/KaueRodriguesMirom/KaueRodriguesMirom/main/github-contribution-grid-snake-dark.svg" width="100%" title="Watch Pacman eat my contributions" />
     </picture>
   </a>
 </div>
